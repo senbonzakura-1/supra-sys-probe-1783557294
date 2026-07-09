@@ -1,0 +1,6 @@
+[package]
+name = "SysProbe"
+version = "0.0.1"
+
+[addresses]
+sys_probe = "0x42"
