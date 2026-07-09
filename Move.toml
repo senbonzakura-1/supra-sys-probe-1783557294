@@ -2,5 +2,7 @@
 name = "SysProbe"
 version = "0.0.1"
 
+[dependencies]
+
 [addresses]
 sys_probe = "0x42"
